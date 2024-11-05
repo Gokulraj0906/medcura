@@ -75,4 +75,4 @@ Once both the backend and frontend servers are running, you can open the React a
 
 ## Contact
 
-For any questions or feedback, please reach out to the project maintainer at <a href="mailto:youremail@example.com">youremail@example.com</a>.
+For any questions or feedback, please reach out to the project maintainer at <a href="mailto:gokulsenthil0906@gmail.com">youremail@example.com</a>.
