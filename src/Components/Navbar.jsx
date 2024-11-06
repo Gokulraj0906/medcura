@@ -38,13 +38,13 @@ const MyNavbar = () => {
           >
             <ul className="navbar-links">
               <li className="navbar-item">
-                <a className="navbar-link" href="/home">Home</a>
+                <a className="navbar-link" href="#home">Home</a>
               </li>
               <li className="navbar-item">
-                <a className="navbar-link" href="/about-us">About Us</a>
+                <a className="navbar-link" href="#about-us">About Us</a>
               </li>
               <li className="navbar-item">
-                <a className="navbar-link" href="/contact-us">Contact Us</a>
+                <a className="navbar-link" href="#contact-us">Contact Us</a>
               </li>
               <li className="navbar-item">
                 <a className="navbar-link" href="/upload">Upload</a>
