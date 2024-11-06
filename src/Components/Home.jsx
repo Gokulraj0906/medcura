@@ -54,7 +54,7 @@ const HomePage = () => {
       }
       `}</style>
       {/* Carousel */}
-      <MDBCarousel showIndicators showControls fade>
+      <MDBCarousel showIndicators showControls fade id="home">
         <MDBCarouselItem itemId={1}>
 
           <img id='img1'
@@ -146,7 +146,7 @@ const HomePage = () => {
       </MDBContainer>
 
       {/* About Section */}
-      <MDBContainer className='my-5'>
+      <MDBContainer className='my-5' id='about-us'>
         <section id='about'>
           <h2 className='text-center my-4'>About Us</h2>
           <p className='text-center'>
@@ -159,7 +159,7 @@ const HomePage = () => {
       </MDBContainer>
 
       {/* Contact Section */}
-      <MDBContainer className='my-5'>
+      <MDBContainer className='my-5' id='contact-us'>
         <section id='contact'>
           <h2 className='text-center my-4'>Contact Us</h2>
           <MDBValidation className='row g-3'>
