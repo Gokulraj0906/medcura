@@ -38,7 +38,7 @@ const MyNavbar = () => {
           >
             <ul className="navbar-links">
               <li className="navbar-item">
-                <a className="navbar-link" href="#home">Home</a>
+                <a className="navbar-link" href="/">Home</a>
               </li>
               <li className="navbar-item">
                 <a className="navbar-link" href="#about-us">About Us</a>
