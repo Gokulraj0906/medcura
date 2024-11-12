@@ -50,7 +50,7 @@ const HomePage = () => {
       }
       #font1{
         color: #0b4675;
-        font-size: 90px; 
+        font-size: 3rem; 
       }
       `}</style>
       {/* Carousel */}
